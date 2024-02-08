@@ -26,10 +26,10 @@ export const HomePage = () => {
 								Frontend developer
 							</h1>
 							<p className="mb-6">
-								Lorem ipsum dolor sit amet consectetur
-								adipisicing elit. Aperiam nulla nemo non in
-								dignissimos quo similique repellendus facilis
-								repudiandae mollitia?
+								My name is Elyorbek Khujamov... I have finished
+								learning Frontend development in our course...
+								But I don't have an experience with real team in
+								IT company
 							</p>
 							<Link
 								to="/resume"
