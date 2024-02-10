@@ -42,6 +42,7 @@ export const Resume = () => {
 												? "text-orange-500 border-b relative border-b-orange-500 flex gap-2 items-center py-1 max-md:py-3 max-md:right-2"
 												: "flex gap-2 items-center border-b border-b-transparent py-3 hover:opacity-60 active:text-gray-300"
 										}
+										end
 									>
 										Education
 									</NavLink>
@@ -84,7 +85,7 @@ export const Resume = () => {
 								</li>
 							</ul>
 						</nav>
-						<div className="max-w-[400px] p-4">
+						<div className="max-w-[400px] h-auto p-4">
 							<Outlet />
 						</div>
 					</div>

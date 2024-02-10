@@ -7,6 +7,7 @@ export const ApexChart = () => {
 		options: {
 			chart: {
 				height: 350,
+				width: 400,
 				type: "radialBar",
 			},
 			plotOptions: {
