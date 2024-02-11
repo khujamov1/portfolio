@@ -1,6 +1,6 @@
 export const Experience = () => {
 	return (
-		<div className="w-[400px]">
+		<div className="max-w-[400px]">
 			<h3 className="text-center font-bold  text-3xl text-orange-600 mb-5">
 				Experience
 			</h3>

@@ -18,7 +18,7 @@ export const HomePage = () => {
 					<div className="w-full h-full fixed bg-slate-700 -top-1/2 -left-2/3 rotate-45 -z-10 max-[1030px]:-left-500px"></div>
 
 					<div>
-						<div className="ml-14 max-w-full max-[1030px]:text-center">
+						<div className="ml-14 max-w-full max-[1030px]:mx-auto max-[1030px]:text-center">
 							<h1 className="text-5xl max-[600px]:text-4xl max-[480px]:text-3xl max-[416px]:text-2xl font-bold ml-6 text-stone-800 mb-6">
 								<span className="block text-blue-800 before:">
 									- I'm Elyor Khujamov

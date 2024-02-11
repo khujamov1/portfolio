@@ -36,7 +36,7 @@ export const Header = () => {
 									: "fixed right-full"
 							} `}
 						>
-							<ul className="flex flex-col gap-x-14 text-gray-400 md:flex-row">
+							<ul className="flex flex-col gap-x-14 text-gray-400 md:flex-row max-md:z-50">
 								{/* <li className="border-b border-b-transparent py-3 hover:text-white hover:border-b-white active:text-gray-300 ">
 								Home
 							</li> */}
