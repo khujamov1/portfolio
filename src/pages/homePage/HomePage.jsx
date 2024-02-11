@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 export const HomePage = () => {
 	return (
-		<section className="mt-8">
+		<section className="mt-8" style={{ display: "none" }}>
 			<div className="max-w-[1240px] mx-auto min-[320px]:px-3 sm:px-5 lg:px-7">
 				<div className="flex items-center max-[1030px]:flex-col">
 					<img
